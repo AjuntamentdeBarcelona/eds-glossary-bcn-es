@@ -1,0 +1,44 @@
+= Contribuir
+Sobre nosotros -los mantenedores de este proyecto y la ciudad de Barcelona- valoramos su _input_, disfrutamos de sus comentarios y damos la bienvenida a todas las mejoras en nuestros documentos.  Agradecemos las _issues_ y _pull request_ de todas las personas.
+
+== Problemas, sugerencias y preguntas
+
+No necesita cambiar ningún documento para convertirse en una persona que contribuya.
+Muchas personas contribuyen reportando problemas, sugiriendo cambios y preguntando.
+Para hacer esto, puedes crear una _issue_ https://help.github.com/articles/creating-an-issue/[GitHub Issue] para este proyecto.
+
+== Documentación
+
+Si queréis añadir documentación en alguno de nuestros proyectos, tenéis que hacer un _pull request_.
+Si utilizáis GitHub por primera vez, podéis aprender a hacerlo rápidamente leyendo https://guides.github.com/introduction/flow/[Understanding the GitHub Flow].
+
+=== Haz tus cambios
+
+Añade tus cambios con _commits_ https://github.com/alphagov/styleguides/blob/master/git.md#commit-messages[con un mensaje donde quede claro el por qué de los cambios].
+Las explicaciones o decisiones que escribáis en el mensaje de _commit_, permitirán a todo el mundo estar informado de vuestras decisiones en el futuro.
+
+Si estáis añadiendo documentación, antes de enviar el _pull request_ aseguraros que sigue la guía de estilo en AsciiDoc que encontraréis más abajo en el siguiente capítulo de este documento.
+
+=== _Pull request_
+
+En el momento de enviar el _pull request_, acompañarlo por favor de la descripción del problema que estáis corrigiendo y lo números (IDs) de las _issues_ que dicho _pull request_ corrige.
+
+=== Mejorar
+
+Podría ser que vuestra aportación fuera aplicada inmediatamente por un mantenedor.
+Sin embargo, en general, un nuevo _pull request_ necesita algunas mejoras antes de que se pueda aplicar.
+Otros colaboradores (o robots de ayuda) podrían dar respuesta.
+Si éste es el caso, el revisor-mantenedor ayudará a mejorar su documentación.
+
+Si la documentación ha pasado satisfactoriamente revisión humana, se aplica.
+
+= Guía de estilo para editar esta documentación en AsciiDoc
+
+Esta sección es específicamente para explicar las convenciones a utilizar para escribir la documentación en AsciiDoc.
+Si sois nuevos en AsciiDoc, debéis empezar leyendo https://asciidoctor.org/docs/asciidoc-writers-guide/[esto].
+
+== Reglas específicas del proyecto
+
+* Cada frase en una linea (entendiendo una frase cuando acaba en '.').
+* Cuando se haya de añadir una imagen, se tiene que indicar siempre su anchura original (e.g. image::ScrumInfographic.svg[Scrum info-graphic, width=2835])
+* Las infografías que tienen texto, siempre deben estar en formato .svg para facilitar la edición del texto.

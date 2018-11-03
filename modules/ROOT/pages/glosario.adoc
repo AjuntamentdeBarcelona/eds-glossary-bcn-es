@@ -1,0 +1,289 @@
+[appendix]
+= Glosario
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+:page-layout: glossary
+
+Este glosario incluye una relación de los conceptos clave que se utilizan en los documentos que forman la estrategia de transición hacia la soberanía tecnológica que articula el Plan Barcelona digital 2017-2020.
+
+Los conceptos se han definido mediante un lenguaje no exhaustivo, pero sí esclarecedor, con el objetivo de facilitar el uso y la comprensión del contenido a todo el mundo que tenga acceso a este glosario, con independencia del nivel de conocimiento técnico de que disponga, de manera que pueda compartir el significado y el sentido de estos términos.
+
+[#acuerdo-marco]
+Acuerdo marco ::
+
+Instrumento para la racionalización técnica de la contratación pública destinado a simplificar los procedimientos de contratación y al mismo tiempo a reducir los gastos asociados a estos procedimientos.
+Pueden implicar ventajas importantes tanto para la Administración como para los licitadores, como, por ejemplo, economizar (en tiempo y recursos) la gestión administrativa del proceso de contratación o disponer, de forma inmediata, de una bolsa de licitadores que han acreditado su solvencia técnica y económica.
++
+El acuerdo marco permite establecer, en un único proceso, una serie de condiciones o términos comunes válidos para los múltiples contratos que se deriven mientras el acuerdo esté vigente.
+De esta manera, los procesos de contratación derivados del acuerdo marco son más simples y ágiles.
++
+Aun así, hay que tener en cuenta que también puede comportar efectos negativos sobre la competencia, dado que, como resultado de la homologación, se puede producir un cierto cierre del mercado y facilitar la colusión entre las empresas que han sido homologadas.
+La duración y el alcance limitados del acuerdo marco, así como la definición de unos criterios adecuados para la adjudicación de la contratación derivada del mismo, permiten reducir estos efectos adversos.
+
+[#codigo-abierto]
+Código abierto (_open source_) ::
+
+Es de código abierto (u _open source,_ por su denominación en inglés) cualquier _software_ que se publica o distribuye bajo una licencia abierta.
++
+La Open Source Initiative (OSI) es una organización sin ánimo de lucro y de amplio reconocimiento y referencia internacional que trabaja para la fijación de estándares, la formación y la promoción de las ventajas y la relevancia del uso del código abierto.
++
+Según laOSI, para que un _software_ se pueda considerar _software_ abierto se tiene que publicar bajo una licencia que cumpla con diez condiciones:
+
+. Libre redistribución: el _software_ se debe poder regalar o vender libremente.
+. Código fuente: debe estar incluido, ser público u obtenerse libremente.
+. Permitir modificaciones o trabajos derivados: la redistribución de modificaciones debe estar permitida.
+. Integridad del código fuente del autor: las licencias pueden requerir que las modificaciones se redistribuyan solo como parches, dejando el código original sin cambios.
+. No restringir el uso a ninguna persona o grupo: no puede dejarse fuera a nadie.
+. No restringir el uso a ninguna actividad, línea de negocio o área de iniciativa: los usuarios comerciales no pueden ser excluidos.
+. Distribución de la licencia: deben aplicarse los mismos derechos a todo el mundo que reciba el programa, y la licencia debe permanecer intacta al distribuir o modificar el _software_.
+. La licencia no debe ser específica de un producto: el programa no se puede licenciar solamente como parte de una distribución mayor.
+. La licencia no tiene que restringir a otro _software_: la licencia no puede obligar a que algún otro _software_ que se distribuya con el _software_ abierto también sea de código abierto.
+. La licencia debe ser tecnológicamente neutral: no se tiene que requerir la aceptación de la licencia por medio de un acceso por clic de ratón o de otra forma específica del medio de apoyo del _software_.
+
+Hay que diferenciar, pues, entre los productos como el _software_ libre o de código abierto/_open source_, que dan a los usuarios la libertad de utilizarlo y mejorarlo facilitando el acceso al código fuente y permitiendo la modificación y la libre distribución, y entre los productos que simplemente facilitan acceso al código fuente, pero que no permiten su modificación o distribución.
++
+Por lo tanto, no todos los productos que ofrezcan el código fuente necesariamente son productos _open source_ o libres, ya que, aunque son transparentes, no se permite su modificación o distribución.
++
+En este sentido, es importante matizar que, a todos los efectos jurídicos y contractuales, el código abierto es lo mismo que el _software_ libre. Los dos movimientos se distinguen con respecto a su política, filosofía y ética.
++
+Así, en esta guía, utilizaremos el término _código abierto_ como sinónimo de _software libre_.
+
+[#colusion-empresas]
+Colusión entre empresas ::
+
+En el ámbito de la contratación pública, acuerdo en el que dos o más empresas deciden actuar de manera concertada con respecto a las condiciones de prestación de los servicios o de adquisición de productos en un proceso de licitación, con el objetivo de minimizar o, incluso, eliminar la competencia del resto de empresas que participan en el proceso.
++
+La falta de competencia real entre los posibles licitadores favorece un incremento artificial de los precios o unas condiciones de servicio peores, con el perjuicio consiguiente para los ciudadanos y para la optimización de los recursos públicos.
+La práctica de la colusión se puede ver favorecida especialmente en determinados procedimientos de contratación, como en el caso de los acuerdos marco.
+Al disponer de un número limitado de empresas homologadas, es más fácil que se dé esta concertación y, por lo tanto, el falseamiento de la competencia en la contratación derivada posterior.
+
+[#consultas-mercado]
+Consultas preliminares con el mercado ::
+
+Conjunto de actuaciones orientadas a mantener un diálogo entre los poderes adjudicadores y el mercado, previo al inicio del expediente de contratación.
+El objetivo de esta práctica es mejorar la comprensión de las necesidades de los proveedores, estudiar y evaluar el número más amplio posible de soluciones existentes en el mercado, y definir adecuadamente las características del contrato.
++
+Estos procesos son especialmente recomendables cuando las prestaciones que se quieren contratar son particularmente complejas (y, por lo tanto, también lo es la solución) o requieren soluciones innovadoras.
+
+[#criterios-solvencia]
+Criterios de solvencia ::
+
+Conjunto de criterios de tipo económico, organizativo y técnico que acreditan la capacidad de una empresa licitadora y determinan la viabilidad para hacer frente a la ejecución de un producto o servicio determinado.
+
+[#dependencia-proveedores]
+Dependencia de los proveedores (_vendor lock-in_) ::
+
+En el ámbito de las TIC, situación según la cual el proveedor de un producto o servicio tecnológico determinado dispone de una situación de poder hacia el comprador, dado que, una vez implementado el producto o prestado el servicio, el cliente no tiene capacidad para cambiar de producto o proveedor a causa de los costes en tiempo y dinero que implica el proceso de cambio o por la falta de alternativas viables.
++
+Esta situación puede tener origen en varios factores, como, por ejemplo:
+
+* Uso de _software_ propietario accesible solo para el proveedor y que, por lo tanto, solo puede evolucionar o mantenerse con garantías por parte del mismo proveedor.
+* Carece de capacitación técnica del cliente u organización que no permite asumir el servicio con recursos internos una vez se ha desarrollado.
+
+[#e-watch]
+Electronics Watch ::
+
+Las instituciones del sector público son grandes consumidoras de _hardware_ TIC, como ordenadores portátiles y de escritorio, impresoras, pantallas y medios de almacenaje, y a menudo compran estos productos a través de contratos a largo plazo.
+Pueden crear, por lo tanto, oportunidades de mercado para las empresas que se comprometen a respetar el derecho laboral y las normas de seguridad en las cadenas de suministro mundiales, y hacerlas responsables de las vulneraciones.
++
+Electronics Watch es una organización de supervisión independiente que ayuda a los compradores del sector público a cumplir con su responsabilidad de proteger el derecho laboral de los trabajadores y las trabajadoras en sus cadenas globales de suministro de electrónica.
+
+[#estandar-abierto]
+Estándar abierto ::
+
+Es abierto el estándar que reúne las siguientes condiciones:
++
+a) Que sea público y su utilización esté disponible de manera gratuita o a un coste que no suponga una dificultad de acceso.
++
+b) Que su uso y aplicación no estén condicionados al pago de un derecho de propiedad intelectual o industrial.
++
+(Art. 11 RD 4/2010)
++
+Con respecto a estándares que no entran en el catálogo legalmente establecido como “abierto”, el Instituto Municipal de Informática (IMI) adopta la siguiente definición:
+
+* Uso libre y gratuito.
+Cualesquiera derechos de propiedad intelectual e industrial esenciales para implementar el estándar (incluidas las patentes “esenciales”) se tienen que poner a disposición de todo el mundo de forma irrevocable y gratuita (sin regalías).
+Los acuerdos reversibles sobre regalías o fórmulas de precio variable no son aceptables, ya que pueden crear problemas para el _software_ libre y de fuentes abiertas y para la innovación, y en principio no se usarán, a no ser que se justifique conforme a la ley. Tiene que existir una autorización clara para permitir el uso de los derechos de propiedad intelectual o industrial en proyectos de _software_ libre o de fuentes abiertas.
+Asimismo, los derechos en el texto del estándar deben permitir que se reproduzcan y redistribuyan sin restricciones ni necesidad de firmar un acuerdo.
+
+* No discriminación.
+El estándar no tiene que establecer cláusulas técnicas o legales que limiten la utilización por parte de grupos o para un propósito concreto.
+
+* Información completa.
+La información disponible es suficientemente completa para múltiples implementaciones del estándar, en un marco de competencia comercial, de manera que estas implementaciones sean interoperables.
+Los componentes, las interfaces, las extensiones y los protocolos deben cumplir con las mismas condiciones del estándar para evitar que, en la práctica, dominen el mercado aplicaciones o soluciones que implementen versiones restringidas del estándar.
+
+* Colaboración abierta.
+El desarrollo del estándar tiene lugar en un proceso transparente de consenso, abierto a la participación efectiva de todas las personas interesadas.
+Preferentemente, la gobernanza del estándar es la responsabilidad de una organización sin ánimo de lucro.
+En ningún caso se admiten estándares que estén dominados por una organización o un grupo.
+Se prefieren estándares que se mantengan de forma activa y permanente.
+
+[#interoperabilidad]
+Interoperabilidad ::
+
+Capacidad de los sistemas de información y, por lo tanto, de los procedimientos a los cuales estos sistemas dan apoyo, de compartir datos y posibilitar el intercambio de información y conocimiento entre sí (RD 4/2010).
+
+* *Interoperabilidad organizativa:* es la dimensión de la interoperabilidad relativa a la capacidad de las entidades y de los procesos a través de los que llevan a cabo sus actividades para colaborar con la finalidad de conseguir objetivos acordados mutuamente relativos a los servicios que prestan.
+
+* *Interoperabilidad semántica:* es la dimensión de la interoperabilidad relativa al hecho de que la información intercambiada pueda ser interpretable de forma automática y reutilizable por aplicaciones que no intervinieron en su creación.
+
+* *Interoperabilidad técnica:* es la dimensión de la interoperabilidad relativa a la conexión entre sistemas y servicios de tecnologías de la información, incluidos aspectos como las interfaces, la interconexión, la integración de datos y servicios, la presentación de la información, la accesibilidad y la seguridad, u otros aspectos de naturaleza análoga.
+
+* *Interoperabilidad en el tiempo:* es la dimensión de la interoperabilidad relativa a la interacción entre elementos que corresponden a varias olas tecnológicas; se manifiesta especialmente en la conservación de la información en soporte electrónico.
+
+Las interoperabilidades técnica, semántica y organizativa, además, están altamente reguladas en la legislación a partir del Real decreto 4/2010, de 8 de enero, mediante el cual se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración electrónica.
+
+[#imi]
+IMI ::
+
+L'http://ajuntament.barcelona.cat/imi/es/[Institut Municipal d'Informàtica] (IMI) es un organismo autónomo local del Ayuntamiento de Barcelona que nació el año 1990 con el objetivo de subministrar todos los servicios de las tecnologías de la información y la comunicación (TIC) al Ayuntamiento de Barcelona y a los organismos y las empresas públicas que dependen de éste.
+
+[#manifesto-agile]
+Manifiesto Agile ::
+
+_http://agilemanifesto.org/iso/es/manifesto.html_
++
+Manifiesto por el Desarrollo Ágil de Software (de 2001).
++
+Estamos descubriendo formas mejores de desarrollar software tanto por nuestra propia experiencia como ayudando a terceros. A través de este trabajo hemos aprendido a valorar:
+
+* Individuos e interacciones sobre procesos y herramientas.
+* Software funcionando sobre documentación exhaustiva.
+* Colaboración con el cliente sobre negociación contractual.
+* Respuesta ante el cambio sobre seguir un plan.
+
+Esto es, aunque valoramos los elementos de la derecha, valoramos más los de la izquierda.
+
+[#marketplace]
+Marketplace ::
+
+Plataforma tecnológica que facilitará la interrelación en el ámbito de la compra pública entre proveedores de servicios o productos y compradores, en este caso la Administración municipal.
+
+La finalidad de esta plataforma es la siguiente:
+
+* Convertirse en un punto de referencia y de acceso a toda la información asociada a la compra pública municipal (información sobre la estrategia municipal de compra, la planificación de los procedimientos futuros, los procedimientos en curso, los resultados de la ejecución, etcétera).
+
+* Facilitar la adquisición de bienes y servicios TIC a todos los órganos y entes municipales a través de un mercado electrónico, con el objetivo final de efectuar una transacción en las mejores condiciones posibles.
+
+* Facilitar la comunicación entre la Administración y sus proveedores.
+
+* Asimismo, la plataforma pretende ofrecer información a los ciudadanos, hacer más visibles los procesos de contratación pública y aumentar la transparencia.
+
+[#metodologias-agiles]
+Metodologías ágiles ::
+
+Conjunto de metodologías utilizadas en el ámbito del desarrollo y el mantenimiento de _software_, basadas en procesos iterativos y de corta duración (típicamente duran de una a cuatro semanas), que dan como resultado la entrega inicial de un producto parcial, pero operativo, y de versiones consecutivas con funcionalidades cada vez más completas.
++
+A través de estas iteraciones continuadas, estas metodologías buscan aportar valor desde el inicio del proyecto, así como llevar a cabo una evolución continuada del producto.
+Su objetivo es introducir mejoras y una evolución constante de los productos hasta alcanzar un resultado final excelente que dé respuesta a todos los requerimientos del usuario.
++
+Esta estrategia iterativa permite minimizar el riesgo, ya que cada iteración es como un proyecto en miniatura e incluye todas las fases necesarias: planificación, análisis de requisitos, diseño, codificación, pruebas de usuario y documentación.
+Así, los problemas en la ejecución, la adaptación a los requerimientos y los riesgos del proyecto afloran con anterioridad y las acciones correctoras son menos costosas y más inmediatas que en un proyecto tradicional de desarrollo (en el que acostumbran a aflorar en su fase final, tras meses de evolución).
++
+Asimismo, las metodologías ágiles se centran en la satisfacción del usuario, ya que requieren que este participe activamente en el proyecto tanto durante su conceptualización como en su desarrollo (mediante la validación de las entregas parciales).
+De esta manera, se garantiza que el producto final responda a las necesidades del usuario y esté en línea con sus expectativas.
+
+[#nueva-economia]
+Nueva economía ::
+
+Conocida también como _economía del conocimiento_ o _economía digital_, domina la explotación de la información y especialmente de los datos (convertidos en uno de los bienes más valiosos y preciados) que se generan como resultado del uso de servicios digitales y productos tecnológicos y de comunicación.
++
+En este nuevo contexto, en el que internet destaca como canal y herramienta de producción, las empresas son más valoradas por sus ideas, por su información o por su saber hacer que no por sus activos materiales.
+Por una parte, se puede comerciar y vender con todo el mundo y, por otra, gracias a la interactividad que ofrece la red, se pueden adaptar los productos a los gustos de los consumidores a grandes velocidades.
+No obstante, la avalancha de información y de posibilidades que ofrece internet provoca el nacimiento de nuevos intermediarios, los conocidos como _infomediarios_, que aportan valor añadido al ordenar la información para los usuarios.
+
+[#open-data]
+Open data / datos abiertosfootnote:[Ley 37/2007, sobre reutilización de la información del sector público.]
+
+En el ámbito del sector público, se entienden como los conjuntos de datos que se ponen a disposición del público y se pueden reutilizar y volver a publicar, con el objetivo principal de aprovechar al máximo los recursos públicos disponibles al exponer la información generada o custodiada por organismos públicos y permitir el acceso y la reutilización para el beneficio de cualquier persona o entidad interesada.
++
+Esta información pública, de gran valor potencial, puede ser relativa a cualquier tema y de cualquier tipo (documentos pictográficos, datos estadísticos, resultados de estudios o análisis, información sobre los servicios públicos, etcétera).
+Empresas, investigadores, otras instituciones públicas o la ciudadanía en general podrán hacer uso de los recursos de información con cualquier finalidad.
++
+El objetivo es maximizar las posibilidades económicas y sociales que ofrecen los datos que se recogen: fomentar la transparencia en la gestión, mejorar los servicios a la ciudadanía y generar actividades de negocio e impacto social, buscando siempre la eficiencia en la gobernanza.
+
+[#principios-agiles]
+http://agilemanifesto.org/iso/es/principles.html[Principios ágiles] ::
+
+Estos son los doce principios _Agile_ que se derivan del Manifiesto Agile:
+
+.  _Nuestra mayor prioridad es satisfacer al cliente mediante la entrega temprana y continua de software con valor_.
+. _Aceptamos que los requisitos cambien, incluso en etapas tardías del desarrollo_. _Los procesos Ágiles aprovechan el cambio para proporcionar ventaja competitiva al cliente_.
+. _Entregamos software funcional frecuentemente, entre dos semanas y dos meses, con preferencia al periodo de tiempo más corto posible_.
+. _Los responsables de negocio y los desarrolladores trabajamos juntos de forma cotidiana durante todo el proyecto_.
+. _Los proyectos se desarrollan en torno a individuos motivados_. _Hay que darles el entorno y el apoyo que necesitan, y confiarles la ejecución del trabajo_.
+. _El método más eficiente y efectivo de comunicar información al equipo de desarrollo y entre sus miembros es la conversación cara a cara_.
+. _El software funcionando es la medida principal de progreso_.
+. _Los procesos Ágiles promueven el desarrollo sostenible_. _Los promotores, desarrolladores y usuarios debemos ser capaces de mantener un ritmo constante de forma indefinida_.
+. _La atención continua a la excelencia técnica y al buen diseño mejora la Agilidad._
+. _La simplicidad, o el arte de maximizar la cantidad de trabajo no realizado, es esencial._
+. _Las mejores arquitecturas, requisitos y diseños emergen de equipos auto-organizados_.
+. _A intervalos regulares el equipo reflexiona sobre cómo ser más efectivo para a continuación ajustar y perfeccionar su comportamiento en consecuencia._
+
+[#prop-industrial]
+Propiedad industrialfootnote:[_Patentes y modelos_ _(Ley 24/2015, de 24 de julio, de patentes); signos distintivos (Ley 17/2001, de 7 de diciembre, de marcas); diseños industriales (Ley 20/2003, de 7 de julio, de protección jurídica del diseño industrial); topografías de semiconductores (Ley 11/1988, de 3 de mayo, de protección jurídica de las topografías de los productos semiconductores)._] ::
+
+Conjunto de derechos exclusivos que corresponden a una persona o a una entidad sobre una invención u otra creación inmaterial elaborados por esta persona (patentes, marcas o diseños industriales) y que sean susceptibles de ser utilizados por parte de terceros.
++
+La propiedad industrial otorga unos derechos de exclusiva que permiten que la persona que los tiene pueda decidir quién puede usarlos y cómo.
++
+Estos derechos se otorgan a partir de un procedimiento que lleva a cabo el organismo competente (en España, la Oficina Española de Patentes y Marcas) y su protección se extiende a todo el territorio en el que el organismo es competente.
+
+[#prop-intel]
+Propiedad intelectualfootnote:[Según lo que dispone el Real decreto legislativo 1/1996, de 12 de abril, que aprueba el texto refundido de la Ley de propiedad intelectual.] ::
+
+La propiedad intelectual está formada por el conjunto de derechos de carácter personal y patrimonial que corresponden a los autores y otros titulares con respecto a las obras fruto de su creación (en el caso de las TIC, desarrollos y prestaciones).
+
+[#sob-datos]
+Soberanía de datos ::
+
+Capacidad de decisión y autogestión, por parte de una persona física o jurídica, sobre los datos que un tercero tiene sobre esta persona, cosa que también la hace responsable de su uso y consumo.
+
+[#sob-tec]
+Soberanía tecnológica ::
+
+La soberanía tecnológica implica una alta capacidad de decisión y autogestión por parte de una organización o entidad (en este caso, el Ayuntamiento) sobre la tecnología que utiliza en un ámbito determinado, así como la capacidad de mantenerla y evolucionarla de acuerdo con sus principios y necesidades.
++
+Este planteamiento se contrapone a la dinámica clásica de abastecimiento de servicios TIC, que se ha basado, en gran parte, en utilizar _software_ de uso privativo bajo licencia.
++
+Estas dinámicas habían favorecido una dependencia hacia los proveedores de tecnología.
+
+[#soft-gratuito]
+Software gratuito (_freeware_) ::
+
+Tipo de _software_ que se distribuye de forma gratuita, pero que dispone de una licencia de uso que prohíbe que otros usuarios puedan modificar o, en algunos casos, utilizar libremente su código.
+El usuario no tiene acceso al código fuente.
+
+[#soft-libre]
+Software libre (_free software_) ::
+
+_Software_ que puede ser usado, estudiado y modificado sin restricciones y que puede ser copiado y redistribuido, bien en una versión modificada o sin modificar sin ninguna restricción o bien con unas restricciones mínimas para garantizar que los destinatarios futuros también tengan estos derechos.
+No debe confundirse con el _software_ gratuito o _freeware_.
+En general, se puede decir que un programa es libre si permite las cuatro libertades definidas por la Free Software Foundation:
+
+* La libertad de ejecutar el programa para cualquier propósito (libertad 0).
+
+* La libertad de ver cómo funciona el programa y adaptarlo a las necesidades propias (libertad 1).
+El acceso al código fuente es un requisito.
+
+* La libertad de redistribuir copias (libertad 2).
+
+* La libertad de mejorar el programa y de distribuirlo de nuevo con las mejoras realizadas, para que toda la comunidad se pueda beneficiar de este (libertad 3).
+De igual manera que en la libertad 1, el acceso al código fuente es un requisito.
+
+[#soft-prop]
+Software de propiedad ::
+
+_Software_ que se distribuye bajo una licencia que no es libre o abierta y que no permite que otro usuario lo modifique, adapte o redistribuya libremente. Generalmente, el código fuente no está a disposición de terceros.
+
+[#e-subasta]
+Subasta electrónica ::
+
+Proceso de negociación iterativo de selección de ofertas que dispone de un dispositivo electrónico de evaluación de ofertas automático basado en el precio u otras variables, y sin la intervención del poder adjudicador en la valoración de las variables en subasta.
++
+El proceso requiere una primera evaluación de las ofertas presentadas por los proveedores, a los que después se invita a participar en la subasta para que puedan ofrecer mejoras en relación con los elementos de valoración (precio u otros elementos).
++
+No se trata de un procedimiento de contratación, sino de un instrumento o una herramienta aplicable a varios procedimientos de contratación, siempre que la naturaleza del servicio o el producto objeto de la compra lo haga posible, de acuerdo con lo que establece la Ley de contratas del sector público.
