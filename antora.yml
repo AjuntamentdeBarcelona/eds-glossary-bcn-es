@@ -1,4 +1,4 @@
-name: glosario
+name: es/glossary
 title: Glosario
 version: 0.1
-start_page: ROOT:glosario.adoc
+start_page: ROOT:glossary.adoc
