@@ -1,1 +1,1 @@
-* xref:glosario.adoc[Glosario]
+* xref:glossary.adoc[Glosario]
