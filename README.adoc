@@ -123,4 +123,4 @@ La versión pública estilizada del documento se puede encontrar en {_url} [{_ti
 Encontraréis instrucciones sobre como conseguir la versión estilizada de éste y otros documentos relacionados en https://github.com/AjuntamentdeBarcelona/ethical-digital-standards-site.
 
 Nosotros - los mantenedores de este proyecto y la Ciudad de Barcelona - valoramos vuestros _inputs_, nos gusta recibir _feedback_ y damos la bienvenida a la aportación de mejoras para nuestros proyectos de software libre y documentación.
-Para más detalles consultar el fichero link:./CONTRIBUTING.adoc[CONTRIBUTING] en la raíz de este repositorio.
+Para más detalles consultar el fichero link:https://github.com/AjuntamentdeBarcelona/ethical-digital-standards-site/blob/master/CONTRIBUTING.adoc[CONTRIBUTING] en la raíz del repositorio principal.
